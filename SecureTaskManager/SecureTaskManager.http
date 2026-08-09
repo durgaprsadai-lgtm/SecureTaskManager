@@ -1,0 +1,6 @@
+@SecureTaskManager_HostAddress = http://localhost:5137
+
+GET {{SecureTaskManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
